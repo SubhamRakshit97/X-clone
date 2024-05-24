@@ -29,7 +29,3 @@ Check out [LIVE DEMO](https://final-x-clone.onrender.com/) here!!
 * Users can delete tweets.
 * Users can send a like to a tweet.
 ```
-
-## Database Specification File
-[https://docs.google.com/spreadsheets/d/1XEt4aodcAZVcmpCnKI-e6B_u9UQ50pqTVSRAVYWgAsc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1XEt4aodcAZVcmpCnKI-e6B_u9UQ50pqTVSRAVYWgAsc/edit?usp=sharing)
-
