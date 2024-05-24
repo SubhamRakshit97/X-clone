@@ -5,12 +5,11 @@ To make the project simple, we do not have a sign/login function.
 So there are not user accounts and follow function. You can challenge after you finish the course.
 ```
 
-Check out [LIVE DEMO](https://techis-wd-twitter-clone.techisio.repl.co/) here!!
+Check out [LIVE DEMO](https://final-x-clone.onrender.com/) here!!
 
 
 ## Screenshot
-
-<img src="https://user-images.githubusercontent.com/7912575/108593051-5cda5300-7397-11eb-83eb-672534dd33ce.png" width="400" />
+<img width="636" alt="Screenshot 2024-05-25 at 2 02 10 AM" src="https://github.com/SubhamRakshit97/X-clone/assets/111345784/60662bdf-fe6e-4c3d-860a-660181af2655">
 
 ## Tech used
 ```
