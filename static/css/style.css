@@ -1,11 +1,10 @@
-/*
-全体/共通
-************************************/
+
 
 html,
 body {
     height: 100%;
     font-family: sans-serif;
+    background-color: black;
 }
 
 .btn {
@@ -13,6 +12,7 @@ body {
     color: white;
     font-size: 15px;
     font-weight: bold;
+    border-radius: 25px;
 }
 
 .btn-gray {
@@ -55,6 +55,7 @@ a.btn-gray:visited {
     border-left: 1px solid rgb(235, 238, 240);
     border-right: 1px solid rgb(235, 238, 240);
     border-top: 1px solid rgb(235, 238, 240);
+    border-bottom: 1px solid rgb(235, 238, 240);
 }
 
 
@@ -72,7 +73,7 @@ Main
 }
 
 .main .main-header .logo {
-    width: 30px;
+    width: 45px;
 }
 
 .main .main-header h1 {
@@ -81,6 +82,7 @@ Main
     margin-bottom: 0;
     font-weight: bold;
     margin-left: 50px;
+    color: white;
 }
 
 .main .main-header {
@@ -126,7 +128,6 @@ Home
 .home .tweet-post .input-area input[type=text] {
     border: 0px;
     width: 100%;
-    background: #e6fef7;
     border-radius: 5px;
     margin-bottom: 10px;
     padding: 10px;
@@ -199,14 +200,14 @@ Home
 }
 
 .home .tweet-list .tweet .name a .nickname {
-    color: rgb(21, 32, 43);
+    color: white;
     font-size: 17px;
     font-weight: bold;
 }
 
 .home .tweet-list .tweet .name a .datetime {
     padding-left: 10px;
-    color: rgb(71, 71, 71);
+    color: white;
     font-size: 14px;
 }
 
@@ -222,10 +223,12 @@ Home
     font-size: 16px;
     padding: 8px 0 0 0;
     margin-bottom: 8px;
+    color: white;
 }
 .p3{
     text-align: center;
     margin-top: 2vw;
+    color: white;
 }
 
 .home .tweet-list .tweet .content img.post-image {
@@ -265,7 +268,7 @@ Home
 .home .tweet-list .tweet .content .icon-list .like-count {
     width: 25px;
     padding-top: 2px;
-    color: #474747;
+    color: white;
 }
 
 
